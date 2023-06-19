@@ -1,0 +1,13 @@
+C:\Users\103A-10\Desktop\KübraTAŞKIR\EntityLinqToSql\EntityLinqToSql\bin\Debug\EntityLinqToSql.exe.config
+C:\Users\103A-10\Desktop\KübraTAŞKIR\EntityLinqToSql\EntityLinqToSql\bin\Debug\EntityLinqToSql.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\EntityLinqToSql\EntityLinqToSql\bin\Debug\EntityLinqToSql.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\EntityLinqToSql\EntityLinqToSql\obj\Debug\EntityLinqToSql.csproj.AssemblyReference.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\EntityLinqToSql\EntityLinqToSql\obj\Debug\EntityLinqToSql.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\EntityLinqToSql\EntityLinqToSql\obj\Debug\EntityLinqToSql.Properties.Resources.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\EntityLinqToSql\EntityLinqToSql\obj\Debug\EntityLinqToSql.csproj.GenerateResource.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\EntityLinqToSql\EntityLinqToSql\obj\Debug\EntityLinqToSql.csproj.CoreCompileInputs.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\EntityLinqToSql\EntityLinqToSql\obj\Debug\EntityLinqToSql.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\EntityLinqToSql\EntityLinqToSql\obj\Debug\EntityLinqToSql.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\EntityLinqToSql\EntityLinqToSql\obj\Debug\EntityLinqToSql.Form2.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\EntityLinqToSql\EntityLinqToSql\obj\Debug\EntityLinqToSql.Form3.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\EntityLinqToSql\EntityLinqToSql\obj\Debug\EntityLinqToSql.Form4.resources
