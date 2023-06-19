@@ -1,0 +1,8 @@
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
