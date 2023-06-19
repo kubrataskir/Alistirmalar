@@ -1,0 +1,8 @@
+C:\Users\103A-10\Desktop\KübraTAŞKIR\BasketbolSuperLig\BasketbolSuperLig\bin\Debug\BasketbolSuperLig.exe.config
+C:\Users\103A-10\Desktop\KübraTAŞKIR\BasketbolSuperLig\BasketbolSuperLig\bin\Debug\BasketbolSuperLig.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\BasketbolSuperLig\BasketbolSuperLig\bin\Debug\BasketbolSuperLig.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\BasketbolSuperLig\BasketbolSuperLig\obj\Debug\BasketbolSuperLig.csproj.AssemblyReference.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\BasketbolSuperLig\BasketbolSuperLig\obj\Debug\BasketbolSuperLig.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\BasketbolSuperLig\BasketbolSuperLig\obj\Debug\BasketbolSuperLig.csproj.CoreCompileInputs.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\BasketbolSuperLig\BasketbolSuperLig\obj\Debug\BasketbolSuperLig.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\BasketbolSuperLig\BasketbolSuperLig\obj\Debug\BasketbolSuperLig.pdb
