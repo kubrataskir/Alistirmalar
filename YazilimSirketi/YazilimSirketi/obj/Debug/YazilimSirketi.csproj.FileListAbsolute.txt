@@ -1,0 +1,8 @@
+C:\Users\103A-10\Desktop\KübraTAŞKIR\YazilimSirketi\YazilimSirketi\bin\Debug\YazilimSirketi.exe.config
+C:\Users\103A-10\Desktop\KübraTAŞKIR\YazilimSirketi\YazilimSirketi\bin\Debug\YazilimSirketi.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\YazilimSirketi\YazilimSirketi\bin\Debug\YazilimSirketi.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\YazilimSirketi\YazilimSirketi\obj\Debug\YazilimSirketi.csproj.AssemblyReference.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\YazilimSirketi\YazilimSirketi\obj\Debug\YazilimSirketi.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\YazilimSirketi\YazilimSirketi\obj\Debug\YazilimSirketi.csproj.CoreCompileInputs.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\YazilimSirketi\YazilimSirketi\obj\Debug\YazilimSirketi.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\YazilimSirketi\YazilimSirketi\obj\Debug\YazilimSirketi.pdb
