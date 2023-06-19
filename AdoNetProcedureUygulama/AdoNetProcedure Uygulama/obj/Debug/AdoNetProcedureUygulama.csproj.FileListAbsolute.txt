@@ -1,0 +1,12 @@
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AdoNetProcedure Uygulama\AdoNetProcedure Uygulama\bin\Debug\AdoNetProcedure Uygulama.exe.config
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AdoNetProcedure Uygulama\AdoNetProcedure Uygulama\bin\Debug\AdoNetProcedure Uygulama.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AdoNetProcedure Uygulama\AdoNetProcedure Uygulama\bin\Debug\AdoNetProcedure Uygulama.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AdoNetProcedure Uygulama\AdoNetProcedure Uygulama\obj\Debug\AdoNetProcedureUygulama.csproj.AssemblyReference.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AdoNetProcedure Uygulama\AdoNetProcedure Uygulama\obj\Debug\AdoNetProcedureUygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AdoNetProcedure Uygulama\AdoNetProcedure Uygulama\obj\Debug\AdoNetProcedure_Uygulama.Form1.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AdoNetProcedure Uygulama\AdoNetProcedure Uygulama\obj\Debug\AdoNetProcedure_Uygulama.Kategoriler.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AdoNetProcedure Uygulama\AdoNetProcedure Uygulama\obj\Debug\AdoNetProcedure_Uygulama.Properties.Resources.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AdoNetProcedure Uygulama\AdoNetProcedure Uygulama\obj\Debug\AdoNetProcedureUygulama.csproj.GenerateResource.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AdoNetProcedure Uygulama\AdoNetProcedure Uygulama\obj\Debug\AdoNetProcedureUygulama.csproj.CoreCompileInputs.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AdoNetProcedure Uygulama\AdoNetProcedure Uygulama\obj\Debug\AdoNetProcedure Uygulama.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\AdoNetProcedure Uygulama\AdoNetProcedure Uygulama\obj\Debug\AdoNetProcedure Uygulama.pdb
